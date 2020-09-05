@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb1f2196-eb37-42f5-b25c-3c7b8cd808c4" name="Default Changelist" comment="" />
+    <list default="true" id="fb1f2196-eb37-42f5-b25c-3c7b8cd808c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruqin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ruqin.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h39yF11CHborhAHZvvTtlStAfF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -59,21 +68,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1829" height="295" key="GridCell.Tab.0.bottom" timestamp="1599229585606">
+    <state width="1829" height="226" key="GridCell.Tab.0.bottom" timestamp="1599278038422">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1829" height="295" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1599229585606" />
-    <state width="1829" height="295" key="GridCell.Tab.0.center" timestamp="1599229585605">
+    <state width="1829" height="226" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1599278038422" />
+    <state width="1829" height="226" key="GridCell.Tab.0.center" timestamp="1599278038422">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1829" height="295" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1599229585605" />
-    <state width="1829" height="295" key="GridCell.Tab.0.left" timestamp="1599229585605">
+    <state width="1829" height="226" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1599278038422" />
+    <state width="1829" height="226" key="GridCell.Tab.0.left" timestamp="1599278038421">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1829" height="295" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1599229585605" />
-    <state width="1829" height="295" key="GridCell.Tab.0.right" timestamp="1599229585606">
+    <state width="1829" height="226" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1599278038421" />
+    <state width="1829" height="226" key="GridCell.Tab.0.right" timestamp="1599278038422">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1829" height="295" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1599229585606" />
+    <state width="1829" height="226" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1599278038422" />
   </component>
 </project>
